@@ -2,7 +2,5 @@
 
 This is the best Linux I have ever seen!!!!!!!!!
 
-IT must be arch linux?
-
-asfd
+IT must be arsch linux?
 
