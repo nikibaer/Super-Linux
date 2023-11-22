@@ -2,5 +2,5 @@
 
 This is the best Linux I have ever seen!!!!!!!!!
 
-IT must be arsch linux?
+IT must be ar^ch linux?
 
