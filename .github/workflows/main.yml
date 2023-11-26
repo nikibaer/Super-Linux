@@ -8,4 +8,4 @@ jobs:
   test:
     runs-on: ubuntu-20.04
     steps:
-      - run: echo "April Fools!"
+      - run: echo "Test!"
